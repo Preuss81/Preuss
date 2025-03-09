@@ -21,3 +21,6 @@ Dies ist ein einfacher Proxy-Checker, der die Funktionalität von Proxy-Servern 
 
 ## Lizenz
 Dieses Projekt steht unter der MIT-Lizenz. 
+
+## Anmerkung:
+Diese Anwendung arbeitet nicht autonom und führt keine Hintergrund- oder Internetprozesse aus. Der Proxy-Checker-Scanner ist auf die vom Benutzer bereitgestellten Proxys angewiesen.  Falsch-positive Ergebnisse durch diverse Antivirenprogramme, einschließlich Microsoft Defender, sind bekannt.
