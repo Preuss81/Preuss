@@ -1,7 +1,7 @@
 # Proxy-Checker By-Ch.S Germany.exe
 
 ## Youtube
-[https://youtu.be/d5cG1kBcq40](https://youtu.be/8TpxCSHDChE)
+Noch nicht fertig 
 
 ## Beschreibung
 Dies ist ein einfacher Proxy-Checker, der die Funktionalität von Proxy-Servern überprüft. Die Anwendung wird mit einer benutzerfreundlichen `setup.exe` ausgeliefert, die alle benötigten Komponenten installiert.
